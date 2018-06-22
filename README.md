@@ -18,7 +18,7 @@ Simply drag [...]Extensions.swift in resource folder into your project or just c
 
 #### Notes:
 
-- Some extensions function requires you to add addtional patten in addtional-resource folder
+- Some extensions function requires you to add additional pattern in additional-resource folder.
 
 
 
