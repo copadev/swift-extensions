@@ -7,7 +7,6 @@
 ## Features
 
 - [x] String Extensions
-- [] Int Extensions
 
 ## Requirements
 
