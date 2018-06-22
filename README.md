@@ -2,11 +2,12 @@
 
 [![Version](http://img.shields.io/badge/version-1.0.0-green.svg?style=flat)](https://github.com/duonghominhhuy/swift-extensions)
 [![Github All Releases](https://img.shields.io/github/downloads/duonghominhhuy/swift-extensions/total.svg)](https://github.com/duonghominhhuy/swift-extensions)
-![Twitter Follow](https://img.shields.io/twitter/follow/duonghominhhuy.svg?style=social&label=Follow)
+[![Twitter](https://img.shields.io/badge/twitter-@duonghominhhuy-blue.svg?style=flat)](http://twitter.com/duonghominhhuy)
 
 ## Features
 
 - [x] String Extensions
+- [] Int Extensions
 
 ## Requirements
 
@@ -14,7 +15,7 @@
 
 ## Usage
 
-Simply drag [...]Extensions.swift in resource folder into your project or just copy the extensions that you need and paste it into your project swift file.
+Simply drag [...]Extensions.swift in resource folder into your project or just copy the extensions functions that you need and paste it into your project swift file.
 
 #### Notes:
 
