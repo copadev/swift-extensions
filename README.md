@@ -24,6 +24,7 @@
 - UIScrollView Extensions
 - UISearchView Extensions
 - UIStackView Extensions
+- UITableView Extensions
 
 ## Requirements
 
