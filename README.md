@@ -25,6 +25,7 @@
 - UISearchView Extensions
 - UIStackView Extensions
 - UITableView Extensions
+- UITextView Extensions
 
 ## Requirements
 
