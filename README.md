@@ -18,6 +18,7 @@
 ###### UIKit
 - UIApplication Extensions
 - UIButton Extensions
+- UIColor Extensions
 
 ## Requirements
 
