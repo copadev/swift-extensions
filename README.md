@@ -23,6 +23,7 @@
 - UILabel Extensions
 - UIScrollView Extensions
 - UISearchView Extensions
+- UIStackView Extensions
 
 ## Requirements
 
