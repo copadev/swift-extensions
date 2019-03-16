@@ -22,6 +22,7 @@
 - UIImage Extensions
 - UILabel Extensions
 - UIScrollView Extensions
+- UISearchView Extensions
 
 ## Requirements
 
