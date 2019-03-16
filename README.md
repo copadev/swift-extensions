@@ -19,6 +19,7 @@
 - UIApplication Extensions
 - UIButton Extensions
 - UIColor Extensions
+- UIImage Extensions
 
 ## Requirements
 
@@ -28,7 +29,8 @@
 
 ## Usage
 
-Simply drag [Swift]Extensions.swift on Source folder into your project or just copying the extensions functions that you want to use.
+- Simply drag Source folder into your project.
+- Or just copying the functions that you want to use.
 
 #### Notes:
 
@@ -40,6 +42,6 @@ Simply drag [Swift]Extensions.swift on Source folder into your project or just c
 
 Swift Extensions is completely all free license. 
 
-You can find me on:
+Find me on:
 - Twitter [@duonghominhhuy](https://twitter.com/duonghominhhuy)
 - Facebook Page [/apple.developer.page](https://www.fb.com/apple.developer.page)
