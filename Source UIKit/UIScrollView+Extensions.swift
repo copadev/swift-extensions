@@ -1,5 +1,5 @@
 //
-//  UIScrollView+Extension.swift
+//  UIScrollView+Extensions.swift
 //  swift-extensions
 //
 //  Created by Huy Duong on 3/15/19.

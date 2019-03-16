@@ -27,6 +27,7 @@
 - UITableView Extensions
 - UITextView Extensions
 - UIView Extensions
+- UIViewController Extensions
 
 ## Requirements
 
