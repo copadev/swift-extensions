@@ -13,6 +13,7 @@
 - Double Extensions
 - Int Extensions
 - String Extensions
+- UserDefaults Extensions
 
 ## Requirements
 
