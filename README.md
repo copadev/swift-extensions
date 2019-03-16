@@ -10,6 +10,7 @@
 ###### Foundation
 - Array Extensions
 - Date Extensions
+- Double Extensions
 - String Extensions
 
 ## Requirements
@@ -34,4 +35,4 @@ Swift Extensions is completely all free license.
 
 You can find me on:
 - Twitter [@duonghominhhuy](https://twitter.com/duonghominhhuy)
-- Facebook [fb.com/apple.developer.page](https://www.fb.com/apple.developer.page)
+- Facebook Page [/apple.developer.page](https://www.fb.com/apple.developer.page)
