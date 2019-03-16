@@ -21,6 +21,7 @@
 - UIColor Extensions
 - UIImage Extensions
 - UILabel Extensions
+- UIScrollView Extensions
 
 ## Requirements
 
@@ -41,6 +42,6 @@
 
 Swift Extensions is distributed under the MIT license. See [LICENSE](https://github.com/duonghominhhuy/swift-extensions/blob/master/LICENSE) for details.
 
-Find me on:
+**_Find me on:_**
 - Twitter [@duonghominhhuy](https://twitter.com/duonghominhhuy)
 - Facebook Page [/apple.developer.page](https://www.fb.com/apple.developer.page)
