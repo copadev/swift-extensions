@@ -1,4 +1,4 @@
-![Swift Extensions](https://github.com/duonghominhhuy/swift-extensions/images/swift-extension.png)
+![Swift Extensions](https://raw.githubusercontent.com/duonghominhhuy/swift-extensions/master/Images/swift-extension.png)
 
 [![Version](http://img.shields.io/badge/version-1.0.0-green.svg?style=flat)](https://github.com/duonghominhhuy/swift-extensions)
 [![Github All Releases](https://img.shields.io/github/downloads/duonghominhhuy/swift-extensions/total.svg)](https://github.com/duonghominhhuy/swift-extensions)
@@ -20,11 +20,11 @@
 
 ## Usage
 
-Simply drag [Swift]Extensions.swift on resource folder into your project or just copying the extensions functions that you want.
+Simply drag [Swift]Extensions.swift on Source folder into your project or just copying the extensions functions that you want to use.
 
 #### Notes:
 
-- Some extensions function requires you to add additional pattern in additional-resource folder.
+- String ```pluralize()``` function requires you to add additional pattern in ```Source Additional``` folder.
 
 
 
@@ -34,4 +34,4 @@ Swift Extensions is completely all free license.
 
 You can find me on:
 - Twitter [@duonghominhhuy](https://twitter.com/duonghominhhuy)
-- Facebook [/apple.developer.page](https://www.fb.com/apple.developer.page)
+- Facebook [fb.com/apple.developer.page](https://www.fb.com/apple.developer.page)
