@@ -11,6 +11,7 @@
 - Array Extensions
 - Date Extensions
 - Double Extensions
+- Int Extensions
 - String Extensions
 
 ## Requirements
