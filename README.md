@@ -17,6 +17,7 @@
 
 ###### UIKit
 - UIApplication Extensions
+- UIButton Extensions
 
 ## Requirements
 
