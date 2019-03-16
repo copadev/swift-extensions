@@ -1,8 +1,8 @@
 //
 //  Pluralize.swift
-//  string-extensions-demo
+//  string-extensions
 //
-//  Created by Seasoft on 6/20/18.
+//  Created by Huy Duong on 6/20/18.
 //  Copyright © 2018 Huy Duong. All rights reserved.
 //
 

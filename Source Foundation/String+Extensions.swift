@@ -1,8 +1,8 @@
 //
-//  StringExtensions.swift
-//  string-extensions-demo
+//  String+Extensions.swift
+//  swift-extensions
 //
-//  Created by Seasoft on 6/18/18.
+//  Created by Huy Duong on 6/18/18.
 //  Copyright © 2018 Huy Duong. All rights reserved.
 //
 
@@ -29,7 +29,6 @@ extension String {
     }
     
     
-    
     /**
      Capitalize the first letter of a string.
      ### Usage Example: ###
@@ -42,7 +41,6 @@ extension String {
     func capitalizeFirstLetter() -> String {
         return prefix(1).uppercased() + dropFirst()
     }
-    
     
     
     /**
@@ -69,7 +67,6 @@ extension String {
     }
     
     
-    
     /**
      Pluralizing string word.
      ### Usage Example: ###
@@ -93,8 +90,6 @@ extension String {
 
 
 
-
-
 // MARK: - STRING VALIDATION
 
 extension String {
@@ -114,7 +109,6 @@ extension String {
     }
     
     
-    
     /**
      Check if the given email address is in a validation format or not.
      ### Usage Example: ###
@@ -129,7 +123,6 @@ extension String {
         let emailTest = NSPredicate(format:"SELF MATCHES %@", emailRegex)
         return emailTest.evaluate(with: self)
     }
-    
     
     
     /**
@@ -149,7 +142,6 @@ extension String {
     }
     
     
-    
     /**
      Check if the given number is between the range or not.
      ### Usage Example: ###
@@ -165,7 +157,6 @@ extension String {
         let inputNumber = (self as NSString).doubleValue
         return min <= inputNumber && inputNumber <= max
     }
-    
     
     
     /**
@@ -184,7 +175,6 @@ extension String {
         let regex = try! NSRegularExpression(pattern: pattern, options: .caseInsensitive)
         return regex.firstMatch(in: self, options: [], range: NSRange(location: 0, length: count)) != nil
     }
-    
     
     
     /**
@@ -216,8 +206,6 @@ extension String {
 
 
 
-
-
 // MARK: - STRING EXTRACTION
 
 extension String {
@@ -238,7 +226,6 @@ extension String {
     }
     
     
-    
     /**
      Cut string from a given index of characters to end index.
      ### Usage Example: ###
@@ -253,7 +240,6 @@ extension String {
         guard 0...count ~= from else { return self }
         return String(self[self.index(self.startIndex, offsetBy: from)...])
     }
-    
     
     
     /**
@@ -271,7 +257,6 @@ extension String {
         guard 0..<count ~= length else { return self }
         return self[startIndex..<index(startIndex, offsetBy: length)] + (trailing ?? "")
     }
-    
     
     
     /**
@@ -292,7 +277,6 @@ extension String {
     }
     
     
-    
     /**
      Array of words in a string.
      ### Usage Example: ###
@@ -308,7 +292,6 @@ extension String {
         let comps = components(separatedBy: chararacterSet)
         return comps.filter { !$0.isEmpty }
     }
-    
     
     
     /**
@@ -336,8 +319,6 @@ extension String {
 
 
 
-
-
 // MARK: - STRING ENCODE & DECODE
 
 extension String {
@@ -355,7 +336,6 @@ extension String {
         let encodedStr = NSString(cString: self.cString(using: String.Encoding.nonLossyASCII)!, encoding: String.Encoding.utf8.rawValue)
         return encodedStr as String?
     }
-    
     
     
     /**
@@ -382,7 +362,6 @@ extension String {
     }
     
     
-    
     /**
      Encode base64 string (if applicable).
      ### Usage Example: ###
@@ -397,7 +376,6 @@ extension String {
         let plainData = data(using: .utf8)
         return plainData?.base64EncodedString()
     }
-    
     
     
     /**
@@ -416,8 +394,6 @@ extension String {
     }
     
 }
-
-
 
 
 
@@ -446,8 +422,6 @@ extension String {
 
 
 
-
-
 // MARK: - STRING & FLOAT
 
 extension String {
@@ -470,8 +444,6 @@ extension String {
     }
     
 }
-
-
 
 
 
@@ -525,7 +497,6 @@ extension String {
 
 
 
-
 // MARK: - OTHERS
 
 extension String {
@@ -548,7 +519,6 @@ extension String {
     }
     
     
-    
     /**
      Return the current class name.
      Using for returning tableviewcell class name to call cell indentifier,...
@@ -566,6 +536,3 @@ extension String {
     }
     
 }
-
-
-

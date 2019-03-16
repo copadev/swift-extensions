@@ -2,7 +2,7 @@
 //  DocumentViewController.swift
 //  string-extensions-demo
 //
-//  Created by Seasoft on 6/19/18.
+//  Created by Huy Duong on 6/19/18.
 //  Copyright © 2018 Huy Duong. All rights reserved.
 //
 
