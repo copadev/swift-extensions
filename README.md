@@ -1,4 +1,4 @@
-![Swift Extensions](https://raw.githubusercontent.com/duonghominhhuy/swift-extensions/master/Images/swift-extension.png)
+![Swift Extensions](https://raw.githubusercontent.com/duonghominhhuy/swift-extensions/master/Images/swift-extensions.jpg)
 
 [![Version](http://img.shields.io/badge/version-1.0.0-green.svg?style=flat)](https://github.com/duonghominhhuy/swift-extensions)
 [![Github All Releases](https://img.shields.io/github/downloads/duonghominhhuy/swift-extensions/total.svg)](https://github.com/duonghominhhuy/swift-extensions)
@@ -20,6 +20,7 @@
 - UIButton Extensions
 - UIColor Extensions
 - UIImage Extensions
+- UILabel Extensions
 
 ## Requirements
 
@@ -34,13 +35,11 @@
 
 #### Notes:
 
-- String ```pluralize()``` function requires you to add additional pattern in ```Source Additional``` folder.
-
-
+- String ```pluralize()``` function requires adding an additional pattern on ```Source Additional``` folder.
 
 ## License
 
-Swift Extensions is completely all free license. 
+Swift Extensions is distributed under the MIT license. See [LICENSE](https://github.com/duonghominhhuy/swift-extensions/blob/master/LICENSE) for details.
 
 Find me on:
 - Twitter [@duonghominhhuy](https://twitter.com/duonghominhhuy)

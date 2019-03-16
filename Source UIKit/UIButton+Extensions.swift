@@ -52,7 +52,7 @@ extension UIButton {
     /**
      
      */
-    func blinkAnimationStart() {
+    func buttonBlinkAnimationStart() {
         UIView.animate(withDuration: 0.8,
                        delay:0.0,
                        options:[.allowUserInteraction, .curveEaseInOut, .autoreverse, .repeat],
@@ -66,7 +66,7 @@ extension UIButton {
     /**
      
      */
-    func blinkAnimationStop() {
+    func buttonBlinkAnimationStop() {
         layer.removeAllAnimations()
         alpha = 1
     }
