@@ -44,10 +44,11 @@
 
 - String ```pluralize()``` function requires adding an additional pattern on ```Source Additional``` folder.
 
+## Find me on:
+
+- Twitter [@duonghominhhuy](https://twitter.com/duonghominhhuy)
+- Facebook Page [/apple.developer.page](https://www.fb.com/apple.developer.page)
+
 ## License
 
 Swift Extensions is distributed under the MIT license. See [LICENSE](https://github.com/duonghominhhuy/swift-extensions/blob/master/LICENSE) for details.
-
-**_Find me on:_**
-- Twitter [@duonghominhhuy](https://twitter.com/duonghominhhuy)
-- Facebook Page [/apple.developer.page](https://www.fb.com/apple.developer.page)
