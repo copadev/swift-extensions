@@ -1,4 +1,4 @@
-![Swift Extensions](https://raw.githubusercontent.com/duonghominhhuy/swift-extensions/master/Images/swift-extensions.jpg)
+![Swift Extensions](https://raw.githubusercontent.com/duonghominhhuy/swift-extensions/master/Image/swift-extensions.jpg)
 
 [![Version](http://img.shields.io/badge/version-1.0.0-green.svg?style=flat)](https://github.com/duonghominhhuy/swift-extensions)
 [![Github All Releases](https://img.shields.io/github/downloads/duonghominhhuy/swift-extensions/total.svg)](https://github.com/duonghominhhuy/swift-extensions)

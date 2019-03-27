@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		99A3D757223CB04B00C11EB8 /* Pluralize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99A3D756223CB04B00C11EB8 /* Pluralize.swift */; };
-		99A3D759223CB06600C11EB8 /* String+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99A3D758223CB06600C11EB8 /* String+Extensions.swift */; };
+		99AA9A68224BB67800704630 /* Pluralize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99AA9A67224BB67800704630 /* Pluralize.swift */; };
+		99AA9A6A224BB68700704630 /* String+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99AA9A69224BB68600704630 /* String+Extensions.swift */; };
 		B52FD7F120DC894800078E3E /* truncate.md in Resources */ = {isa = PBXBuildFile; fileRef = B52FD7F020DC894800078E3E /* truncate.md */; };
 		B52FD7F220DC895600078E3E /* substring_to.md in Resources */ = {isa = PBXBuildFile; fileRef = B52FD7EE20DC87E300078E3E /* substring_to.md */; };
 		B52FD7F320DC895900078E3E /* substring_from.md in Resources */ = {isa = PBXBuildFile; fileRef = B52FD7EF20DC884D00078E3E /* substring_from.md */; };
@@ -50,8 +50,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		99A3D756223CB04B00C11EB8 /* Pluralize.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Pluralize.swift; path = "../../../Source Additional/Pluralize.swift"; sourceTree = "<group>"; };
-		99A3D758223CB06600C11EB8 /* String+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "String+Extensions.swift"; path = "../../../Source Foundation/String+Extensions.swift"; sourceTree = "<group>"; };
+		99AA9A67224BB67800704630 /* Pluralize.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Pluralize.swift; path = ../../../Source/Additional/Pluralize.swift; sourceTree = "<group>"; };
+		99AA9A69224BB68600704630 /* String+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "String+Extensions.swift"; path = "../../../Source/Foundation/String+Extensions.swift"; sourceTree = "<group>"; };
 		B52FD7EE20DC87E300078E3E /* substring_to.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = substring_to.md; sourceTree = "<group>"; };
 		B52FD7EF20DC884D00078E3E /* substring_from.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = substring_from.md; sourceTree = "<group>"; };
 		B52FD7F020DC894800078E3E /* truncate.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = truncate.md; sourceTree = "<group>"; };
@@ -108,7 +108,7 @@
 		997A3A7022028B61007CBA53 /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				99A3D758223CB06600C11EB8 /* String+Extensions.swift */,
+				99AA9A69224BB68600704630 /* String+Extensions.swift */,
 			);
 			path = Source;
 			sourceTree = "<group>";
@@ -116,7 +116,7 @@
 		B5328F2120D8D7E100057440 /* Library */ = {
 			isa = PBXGroup;
 			children = (
-				99A3D756223CB04B00C11EB8 /* Pluralize.swift */,
+				99AA9A67224BB67800704630 /* Pluralize.swift */,
 				B5328F2220D8D7FB00057440 /* MarkdownView */,
 			);
 			path = Library;
@@ -317,11 +317,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				99A3D757223CB04B00C11EB8 /* Pluralize.swift in Sources */,
+				99AA9A68224BB67800704630 /* Pluralize.swift in Sources */,
 				B5D27C6520D78E39009D6BDC /* StringExtensionsViewController.swift in Sources */,
 				B5328EFE20D892DE00057440 /* StringExtensionsList.swift in Sources */,
 				B5328F0220D89A2100057440 /* DocumentViewController.swift in Sources */,
-				99A3D759223CB06600C11EB8 /* String+Extensions.swift in Sources */,
+				99AA9A6A224BB68700704630 /* String+Extensions.swift in Sources */,
 				B5328F0020D8953700057440 /* AppDelegate.swift in Sources */,
 				B5D5294320DA32280072CD93 /* StringExtensionsObject.swift in Sources */,
 				B5328F0D20D8BDD700057440 /* MarkdownView.swift in Sources */,
