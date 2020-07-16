@@ -1,9 +1,9 @@
-![Swift Extensions](https://raw.githubusercontent.com/duonghominhhuy/swift-extensions/master/Image/swift-extensions.jpg)
+![Swift Extensions](Image/swift-extensions.jpg)
 
-[![Version](http://img.shields.io/badge/version-1.0.0-green.svg?style=flat)](https://github.com/duonghominhhuy/swift-extensions)
-[![Github All Releases](https://img.shields.io/github/downloads/duonghominhhuy/swift-extensions/total.svg)](https://github.com/duonghominhhuy/swift-extensions)
+[![Version](http://img.shields.io/badge/version-1.0.0-green.svg?style=flat)](https://github.com/CodePassion-dev/swift-extensions)
+[![Github All Releases](https://img.shields.io/github/downloads/duonghominhhuy/swift-extensions/total.svg)](https://github.com/CodePassion-dev/swift-extensions)
 [![Twitter](https://img.shields.io/badge/twitter-@duonghominhhuy-blue.svg?style=flat)](http://twitter.com/duonghominhhuy)
-[![Facebook](https://img.shields.io/badge/facebook-@apple.developer.page-blue.svg?style=flat)](https://www.facebook.com/apple.developer.page)
+[![Facebook](https://img.shields.io/badge/facebook-@codepassion.dev-blue.svg?style=flat)](https://www.facebook.com/codepassion.dev)
 
 ## Features
 
@@ -46,9 +46,11 @@
 
 ## Find me on:
 
-- Twitter [@duonghominhhuy](https://twitter.com/duonghominhhuy)
-- Facebook Page [/apple.developer.page](https://www.fb.com/apple.developer.page)
+- GitHub [/duonghominhhuy](https://github.com/duonghominhhuy)
+- Twitter [/duonghominhhuy](https://twitter.com/duonghominhhuy)
+- Facebook [/codepassion.dev](https://www.facebook.com/codepassion.dev)
+- Website [/codepassion.dev](https://codepassion.dev)
 
 ## License
 
-Swift Extensions is distributed under the MIT license. See [LICENSE](https://github.com/duonghominhhuy/swift-extensions/blob/master/LICENSE) for details.
+Swift Extensions is distributed under the MIT license. See [LICENSE](https://github.com/CodePassion-dev/swift-extensions/blob/master/LICENSE) for details.
