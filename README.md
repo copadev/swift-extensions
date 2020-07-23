@@ -46,10 +46,10 @@
 
 ## Find me on:
 
-- GitHub [@duonghominhhuy](https://github.com/duonghominhhuy)
-- Twitter [@duonghominhhuy](https://twitter.com/duonghominhhuy)
-- Website [@codepassion.dev](https://codepassion.dev)
-- Facebook [@codepassion.dev](https://www.facebook.com/codepassion.dev)
+- [GitHub](https://github.com/duonghominhhuy)
+- [Facebook](https://www.facebook.com/codepassion.dev)
+- [Twitter](https://twitter.com/duonghominhhuy)
+- [Website](https://codepassion.dev)
 
 ## License
 
