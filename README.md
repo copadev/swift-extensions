@@ -47,8 +47,8 @@
 ## Find me on:
 
 - [GitHub](https://github.com/duonghominhhuy)
-- [Facebook](https://www.facebook.com/codepassion.dev)
 - [Twitter](https://twitter.com/duonghominhhuy)
+- [Facebook](https://www.facebook.com/codepassion.dev)
 - [Website](https://codepassion.dev)
 
 ## License
